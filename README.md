@@ -44,12 +44,6 @@ DevOps       Docker · Git · Bash · cPanel
 
 ---
 
-### Currently
-
-🚧 Building **[SOS Venezuela](https://github.com/CalitoTech/sos-venezuela-data)** — open-source centralized registry of missing persons after the 2026 earthquake. Scrapers + public API + Next.js frontend. Contributions welcome.
-
----
-
 <div align="center">
 <sub>Venezuela · carlosdanielnavas26@gmail.com</sub>
 </div>
