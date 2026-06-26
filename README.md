@@ -44,6 +44,12 @@ DevOps       Docker · Git · Bash · cPanel
 
 ---
 
+### Currently
+
+🚨 **[SOS Venezuela](https://sos-venezuela-data.vercel.app)** — open-source centralized registry of missing persons after the 2026 earthquake. Public API + Next.js frontend. [Contribute →](https://github.com/CalitoTech/sos-venezuela-data)
+
+---
+
 <div align="center">
 <sub>Venezuela · carlosdanielnavas26@gmail.com</sub>
 </div>
